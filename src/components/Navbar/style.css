@@ -1,0 +1,16 @@
+.Navbar {
+    padding: 20px;
+    background: #fe0000; /*#5672c5*/
+    font-size: 4vw;
+    color: white;
+
+    /*font-weight: 700;
+    font: italic bold 100px Georgia, Serif;
+    text-shadow: -4px 3px 0 #2e6eb5, -14px 7px 0 #193d75;
+    text-align:  center;*/
+}
+
+.barra{
+    padding: 20px;
+    background: rgb(26, 26, 26);
+}

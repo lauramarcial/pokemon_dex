@@ -1,0 +1,48 @@
+p {
+    margin: 0;
+}
+
+.tarjeta {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 10px 5px 15px #bfbfbf; 
+}
+
+.imagenPkm {
+    text-align: center;
+}
+
+.tiposPkm {
+    display: flex;
+    justify-content: center; 
+}
+
+.tipoTarjeta {
+    padding: 5px 10px;
+    margin: 10px 10px 10px 0;
+    border-radius: 5px; 
+    color: #fff;
+}
+
+.nombrePkm {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 800;
+}
+.numeroPkm{
+    margin-left: 270px;
+    font-size: 3vh;
+    color: #bfbfbf;
+}
+
+.infoPkm {
+    margin-left: 10px;
+}
+
+.datosTarjeta {
+    padding-bottom: 10px;
+}
+
+.datosTarjeta .titulo {
+    font-weight: 700;
+}
